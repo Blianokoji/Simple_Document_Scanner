@@ -10,5 +10,4 @@ wheels/
 .venv
 
 # test images
-img2.jpg
-signatureimg.jpg
+/images
